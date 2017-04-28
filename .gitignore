@@ -1,0 +1,14 @@
+data/
+*.pyc
+.ipynb_checkpoints/data/
+*.pyc
+.DS_Store
+*.swp
+jz_notes/
+.ipynb_checkpoints/
+*.csv
+*.tsv
+.cache/
+secret.py
+secret.json
+*.dat
